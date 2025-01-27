@@ -1,8 +1,41 @@
-# React + Vite
+Here is the content for the README file without the photo:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```
+# ToDo App
 
-Currently, two official plugins are available:
+This is a simple ToDo application where you can add and delete todo items.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add todo item
+- Delete todo item
+
+## Technologies Used
+- JavaScript (90.5%)
+- HTML (8.4%)
+- CSS (1.1%)
+
+## How to Use
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Add your todo items using the input field.
+4. Delete todo items by clicking on the delete button next to each item.
+
+## Installation
+1. Clone the repo:
+   ```
+   git clone https://github.com/khanramjan/ToDo-App.git
+   ```
+2. Open the project directory:
+   ```
+   cd ToDo-App
+   ```
+3. Open `index.html` in your preferred browser.
+
+## Contributing
+Feel free to fork this repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License.
+```
+
+You can add this content to your `README.md` file in your repository.
