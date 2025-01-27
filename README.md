@@ -7,9 +7,10 @@ This is a simple ToDo application where you can add and delete todo items.
 - Delete todo item
 
 ## Technologies Used
-- JavaScript (React) (90.5%)
-- HTML (8.4%)
-- CSS (1.1%)
+- React
+- HTML
+- CSS
+- Tailwind
 
 ## How to Use
 1. Clone the repository.
