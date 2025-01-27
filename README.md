@@ -1,6 +1,6 @@
-Here is the content for the README file without the photo:
+Here is the formatted content for your `README.md` file:
 
-```
+```markdown
 # ToDo App
 
 This is a simple ToDo application where you can add and delete todo items.
@@ -38,4 +38,4 @@ Feel free to fork this repository and submit pull requests.
 This project is licensed under the MIT License.
 ```
 
-You can add this content to your `README.md` file in your repository.
+You can update your `README.md` file with this content.
