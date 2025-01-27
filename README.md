@@ -39,5 +39,5 @@ Contributions are welcome! If you find any issues or have feature requests, feel
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out via [Your Email] or open an issue in the repository.
+For any inquiries or feedback, feel free to reach out via -khanramjan001@gmail.com or open an issue in the repository.
 
