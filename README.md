@@ -1,41 +1,39 @@
-Here is the updated content for your `README.md` file with the requested formatting:
-
-```markdown
-**ToDo App**
+**# ToDo App**
 
 This is a simple ToDo application where you can add and delete todo items.
 
-**Features**
-* Add todo item
-* Delete todo item
+## Features
+- Add todo item
+- Delete todo item
 
-**Technologies Used**
-* JavaScript (90.5%)
-* HTML (8.4%)
-* CSS (1.1%)
+## Technologies Used
+- JavaScript (90.5%)
+- HTML (8.4%)
+- CSS (1.1%)
 
-**How to Use**
+## How to Use
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Add your todo items using the input field.
 4. Delete todo items by clicking on the delete button next to each item.
 
-**Installation**
+## Installation
 1. Clone the repo:
+   ```sh
+   git clone https://github.com/your-username/todo-app.git
    ```
-   git clone https://github.com/khanramjan/ToDo-App.git
-   ```
-2. Open the project directory:
-   ```
-   cd ToDo-App
+2. Navigate to the project directory:
+   ```sh
+   cd todo-app
    ```
 3. Open `index.html` in your preferred browser.
 
-**Contributing**
-Feel free to fork this repository and submit pull requests.
+## Contributing
+Contributions are welcome! If you find any issues or have feature requests, feel free to open an issue or submit a pull request.
 
-**License**
-This project is licensed under the MIT License.
-```
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-You can update your `README.md` file with this content by editing it [here](https://github.com/khanramjan/ToDo-App/edit/main/README.md).
+## Contact
+For any inquiries or feedback, feel free to reach out via [Your Email] or open an issue in the repository.
+
