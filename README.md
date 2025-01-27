@@ -7,7 +7,7 @@ This is a simple ToDo application where you can add and delete todo items.
 - Delete todo item
 
 ## Technologies Used
-- JavaScript (90.5%)
+- JavaScript (React) (90.5%)
 - HTML (8.4%)
 - CSS (1.1%)
 
@@ -16,6 +16,9 @@ This is a simple ToDo application where you can add and delete todo items.
 2. Open `index.html` in your browser.
 3. Add your todo items using the input field.
 4. Delete todo items by clicking on the delete button next to each item.
+
+## Screenshot
+![ToDo App Screenshot](src/assets/image/todo_app_ss.png)
 
 ## Installation
 1. Clone the repo:
@@ -36,7 +39,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any inquiries or feedback, feel free to reach out via [Your Email] or open an issue in the repository.
-
-![ToDo App Screenshot](src\assets\image\todo_app_ss.png)
-
 
